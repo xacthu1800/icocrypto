@@ -172,24 +172,24 @@ export default function Home() {
         </div>
       </section> 
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="WHAT AND WHY" mainTitle="ABOUT" />
+      <ContentTitleX1 title={page.contents.about.title} mainTitle={page.contents.about.mainTitle} />
       <BlockAbout aboutContent={page.contents.about}/>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="CORE ECOSYSTEMS" mainTitle="ECOSYSTEMS" />
+      <ContentTitleX1 title={page.contents.ecosystems.title} mainTitle={page.contents.ecosystems.mainTitle} />
       <BlockEcosystems contents={page.contents.ecosystems.contents} imageBackground={page.contents.ecosystems.imageBackground}/>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="ICOX PRODUCTS" mainTitle="PLATFORM" />
-      <BlockPlatform tabs = {page.contents.tabsPlatform} />
+      <ContentTitleX1 title={page.contents.platform.title} mainTitle={page.contents.platform.mainTitle} />
+      <BlockPlatform tabs = {page.contents.platform.tabsPlatform} />
       <div style={{ marginBottom: "100px" }}/>
-      <ContentTitleX1 title="MVP APPS" mainTitle="MVP">Our project is based on an existing cryptocurrency exchange.</ContentTitleX1>
-      <BlockMVP items={page.contents.mvp} />
+      <ContentTitleX1 title={page.contents.mvp.title} mainTitle={page.contents.mvp.mainTitle}>Our project is based on an existing cryptocurrency exchange.</ContentTitleX1>
+      <BlockMVP items={page.contents.mvp.items} />
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="TOKEN DETAILS" mainTitle="TOKENS">Breakdown of our Token Recipients.</ContentTitleX1>
+      <ContentTitleX1 title={page.contents.token.title} mainTitle={page.contents.token.mainTitle}>Breakdown of our Token Recipients.</ContentTitleX1>
       <section className="container">
         {/* TOKENS */}
         <BlockTokens
                     chartData={page.contents.chart}
-                    tokenInfo={page.contents.token}
+                    tokenInfo={page.contents.token.items}
                     canvasId="token-distribution"
                     color="light"
                     style="custom-style"
@@ -197,20 +197,20 @@ export default function Home() {
                 />
       </section>
       <div style={{ marginBottom: "100px" }}/>
-      <ContentTitleX1 title="TIMELINE" mainTitle="ROADMAP">ICO Crypto is developing a global data-driven platform for the world. Powered by blockchain and smart contracts.</ContentTitleX1>
+      <ContentTitleX1 title={page.contents.roadmap.title} mainTitle={page.contents.roadmap.mainTitle}>ICO Crypto is developing a global data-driven platform for the world. Powered by blockchain and smart contracts.</ContentTitleX1>
       <section className="container">
         {/* ROADMAP */}
-        <BlockRoadMap roadmapList={page.contents.roadmap} /> 
+        <BlockRoadMap roadmapList={page.contents.roadmap.items} /> 
       </section>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="CORE TEAM" mainTitle="OUR TEAM" />
+      <ContentTitleX1 title={page.contents.ourteamMember.title} mainTitle={page.contents.ourteamMember.mainTitle} />
       <section className="container">
         {/* OUR TEAM */}
-        <BlockOurTeam ourteamMember={page.contents.ourteamMember} />
+        <BlockOurTeam ourteamMember={page.contents.ourteamMember.members} />
       </section>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="ADVISORS" mainTitle="BOARD MEMBER">Our advisors and board members are great part of our team.</ContentTitleX1> 
-      <BlockBoardMember members={page.contents.member}/>
+      <ContentTitleX1 title={page.contents.membersBoard.title} mainTitle={page.contents.membersBoard.mainTitle}>Our advisors and board members are great part of our team.</ContentTitleX1> 
+      <BlockBoardMember membersBoard={page.contents.membersBoard.members}/>
       <div style={{ marginBottom: "100px" }}/> 
       <div className="nk-block block-partners" style={{
         display: "flex", alignItems: "center", flexDirection: "column"
@@ -219,34 +219,34 @@ export default function Home() {
         <BlockOurPartner partners={page.contents.partners}/>
       </div>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="DOWNLOADS" mainTitle="DOCUMENTS">Download the whitepaper and learn about ICO Token, the unique ICO Crypto approach and the team/advisors.</ContentTitleX1> 
+      <ContentTitleX1 title={page.contents.documents.title} mainTitle={page.contents.documents.mainTitle}>Download the whitepaper and learn about ICO Token, the unique ICO Crypto approach and the team/advisors.</ContentTitleX1> 
       <section className="container">
         {/* BOARD MEMBER */}
-        <BlockDocument documents={page.contents.documents} color="primary" style="custom-style" dark={true} />
+        <BlockDocument documents={page.contents.documents.items} color="primary" style="custom-style" dark={true} />
       </section>
       <div style={{ marginBottom: "100px" }}/> 
       <div className="container">
         <div className="row justify-content-between align-items-center">
           <div className="col-lg-6">
-            <ContentTitleX1 title="PRESS" mainTitle="IN PRESS" />
+            <ContentTitleX1 title={page.contents.inpress.title} mainTitle={page.contents.inpress.mainTitle} />
             <section className="container">
               {/* IN PRESS */}
-              <BlockInPress inPressItems={page.contents.inpress} />
+              <BlockInPress inPressItems={page.contents.inpress.items} />
             </section>
           </div>
           <div className="col-lg-6">
-            <ContentTitleX1 title="UPDATE" mainTitle="NEWS" />
+            <ContentTitleX1 title={page.contents.news.title} mainTitle={page.contents.news.mainTitle} />
             <section className="container">
               {/* NEWS */}
-              <BlockNews newsItems={page.contents.news} />
+              <BlockNews newsItems={page.contents.news.items} />
             </section>
           </div>
         </div>
       </div>
       <div style={{ marginBottom: "100px" }}/> 
-      <ContentTitleX1 title="UPDATE" mainTitle="FAQS">Below we’ve provided a bit of ICO, ICO Token, cryptocurrencies, and few others. If you have any other questions, please get in touch.</ContentTitleX1> 
+      <ContentTitleX1 title={page.contents.faqTabs.title} mainTitle={page.contents.faqTabs.mainTitle}>Below we’ve provided a bit of ICO, ICO Token, cryptocurrencies, and few others. If you have any other questions, please get in touch.</ContentTitleX1> 
       <section className="container">
-        <BlockFAQ tabs={page.contents.faqTabs} variant="S2"/>
+        <BlockFAQ tabs={page.contents.faqTabs.items} variant="S2"/>
       </section>
       <div style={{ marginBottom: "100px" }}/> 
       <section className="container">

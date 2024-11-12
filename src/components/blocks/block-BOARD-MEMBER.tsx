@@ -15,14 +15,14 @@ interface MemberInfor {
 }
 
 interface BlockBoardMemberProps {
-    members: MemberInfor[];
+    membersBoard: MemberInfor[];
 }
 
-export const BlockBoardMember: React.FC<BlockBoardMemberProps> = ({members}) => {
+export const BlockBoardMember: React.FC<BlockBoardMemberProps> = ({membersBoard}) => {
     return(
         <div className="container container-xxl">
             <div className="row">
-                {members.map((member, index) =>(
+                {membersBoard.map((member, index) =>(
                 <div className="col-md-4 col-lg-2 col-6" key={index}>
                     <BoardMember member={member} teamType={index}/>
                 </div>

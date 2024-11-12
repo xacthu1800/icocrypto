@@ -20,6 +20,8 @@
             ]
         },
         "about": {
+            "title": "WHAT AND WHY",
+            "mainTitle": "ABOUT",
             "contentTitle": "We build fully Decentralized Marketplace that Augments Access to Blockchain Technologies",
             "content": "We have developed a state-of-the-art marketplace where you can securely and reliably buy and sell any items. The fastest and most flexible asset platform in existence. It will include easy cryptocurrency payments integration and a digital arbitration system. Our aim is to integrate all companies, employees, and business assets into a unified blockchain ecosystem, making business truly efficient, transparent, and reliable.",
             "buttonLabel": "White Paper",
@@ -29,155 +31,167 @@
             "imageUrl": "https://ico.themenio.com/images/azalea/gfx-e.png",
             "imageAlt": "image of gfx-e"
         },
-        "roadmap":[
-            {
-            "id": 0,
-            "year": "Q1 2022",
-            "date": "Jan - Apr 2022",
-            "text": "Creation of a decentralize martketplace to neural network adjacent coefficients.",
-            "state": 2
-            },
-            {
-            "id": 1,
-            "year": "Q2 2022",
-            "date": "Jul - Aug 2022",
-            "text": "Start of the ICO Crypto Platform Development and Introduction of advertiser auctions",
-            "state": 1
-            },
-            {
-            "id": 2,
-            "year": "Q3 2022",
-            "date": "Sep - Oct 2022",
-            "text": "Start Private Token Sale Round to our contributors.",
-            "state": 0
-            },
-            {
-            "id": 3,
-            "year": "Q4 2022",
-            "date": "Nov - Dec 2022",
-            "text": "Launch of the mobile Best versions of the Publisher application and Press Tour.",
-            "state": 0
-            },
-            {
-            "id": 4,
-            "year": "Q1 2022",
-            "date": "Jan - Apr 2022",
-            "text": "Release of the initial versions of operational applications and smart contracts.",
-            "state": 0
-            },
-            {
-            "id": 5,
-            "year": "Q2 2022",
-            "date": "Jul - Aug 2022",
-            "text": "Creation of a decentralize martketplace to neural network adjacent coefficients.",
-            "state": 0
-            }
-        ],
-        "member":[
-            {
-                "name": "Ron Glabischnig",
-                "position": "General manager, Coindexin",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-c.jpg",
-                "delay": "0.3",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            },
-            {
-                "name": "Stefan Zakrisson",
-                "position": "Legal Advisor, TokenWiz Project",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-b.jpg",
-                "delay": "0.35",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            },
-            {
-                "name": "Moises Teare",
-                "position": "Managing Director, ICOCrypto",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-a.jpg",
-                "delay": "0.4",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            },
-            {
-                "name": "Michiel Berende",
-                "position": "Insurance Lead & Financial Advisor",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-d.jpg",
-                "delay": "0.45",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            },
-            {
-                "name": "Noack Waylon",
-                "position": "Ecosystem Manager & DevOps Engineer",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-b.jpg",
-                "delay": "0.5",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            },
-            {
-                "name": "Tobias Dalton",
-                "position": "Member of the Operation Board",
-                "imageUrl": "https://ico.themenio.com/images/azalea/team-c.jpg",
-                "delay": "0.55",
-                "socialLinks": [
-                    { "icon": "fab fa-facebook-f", "url": "#" },
-                    { "icon": "fab fa-linkedin-in", "url": "#" },
-                    { "icon": "fab fa-twitter", "url": "#" }
-                ]
-            }
-        ],
-        "mvp": [
-            {
-                "className": "shadow rounded img-fluid",
-                "src": "https://ico.themenio.com/images/app-screens/sc-medium-b.png",
-                "alt": "image sc-medium-b",
-                "width": 500,
-                "height": 300
-            },
-            {
-                "className": "nk-block-img-plx plx-screen shadow rounded img-fluid",
-                "src": "https://ico.themenio.com/images/app-screens/sc-small-d.jpg",
-                "alt": "image sc-small-d",
-                "width": 500,
-                "height": 300
-            },
-            {   
-                "className": "nk-block-img-plx plx-circle plx-circle-s1 img-fluid",
-                "src": "https://ico.themenio.com/images/gfx/circle-a.png",
-                "alt": "image circle-a",
-                "width": 100,
-                "height": 100
-            },
-            {
-                "className": "nk-block-img-plx plx-polygon plx-polygon-s1 img-fluid",
-                "src": "https://ico.themenio.com/images/gfx/polygon-a.png",
-                "alt": "image polygon-a",
-                "width": 100,
-                "height": 100
-            },
-            {
-                "className": "nk-block-img-plx plx-triangle plx-triangle-s1 img-fluid",
-                "src": "https://ico.themenio.com/images/gfx/triangle-a.png",
-                "alt": "triangle-a",
-                "width": 100,
-                "height": 100
-            }
-        ],
+        "roadmap": {
+            "title": "TIMELINE",
+            "mainTitle": "ROADMAP",
+            "items": [
+                {
+                    "id": 0,
+                    "year": "Q1 2022",
+                    "date": "Jan - Apr 2022",
+                    "text": "Creation of a decentralized marketplace to neural network adjacent coefficients.",
+                    "state": 2
+                },
+                {
+                    "id": 1,
+                    "year": "Q2 2022",
+                    "date": "Jul - Aug 2022",
+                    "text": "Start of the ICO Crypto Platform Development and Introduction of advertiser auctions",
+                    "state": 1
+                },
+                {
+                    "id": 2,
+                    "year": "Q3 2022",
+                    "date": "Sep - Oct 2022",
+                    "text": "Start Private Token Sale Round to our contributors.",
+                    "state": 0
+                },
+                {
+                    "id": 3,
+                    "year": "Q4 2022",
+                    "date": "Nov - Dec 2022",
+                    "text": "Launch of the mobile Best versions of the Publisher application and Press Tour.",
+                    "state": 0
+                },
+                {
+                    "id": 4,
+                    "year": "Q1 2023",
+                    "date": "Jan - Apr 2023",
+                    "text": "Release of the initial versions of operational applications and smart contracts.",
+                    "state": 0
+                },
+                {
+                    "id": 5,
+                    "year": "Q2 2023",
+                    "date": "Jul - Aug 2023",
+                    "text": "Expansion and refinement of the decentralized marketplace functionalities.",
+                    "state": 0
+                }
+            ]
+        },
+        "membersBoard":{
+            "title": "ADVISORS",
+            "mainTitle": "BOARD MEMBER",
+            "members": [
+                {
+                    "name": "Ron Glabischnig",
+                    "position": "General Manager, Coindexin",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-c.jpg",
+                    "delay": "0.3",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                },
+                {
+                    "name": "Stefan Zakrisson",
+                    "position": "Legal Advisor, TokenWiz Project",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-b.jpg",
+                    "delay": "0.35",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                },
+                {
+                    "name": "Moises Teare",
+                    "position": "Managing Director, ICOCrypto",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-a.jpg",
+                    "delay": "0.4",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                },
+                {
+                    "name": "Michiel Berende",
+                    "position": "Insurance Lead & Financial Advisor",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-d.jpg",
+                    "delay": "0.45",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                },
+                {
+                    "name": "Noack Waylon",
+                    "position": "Ecosystem Manager & DevOps Engineer",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-b.jpg",
+                    "delay": "0.5",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                },
+                {
+                    "name": "Tobias Dalton",
+                    "position": "Member of the Operation Board",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/team-c.jpg",
+                    "delay": "0.55",
+                    "socialLinks": [
+                        { "icon": "fab fa-facebook-f", "url": "#" },
+                        { "icon": "fab fa-linkedin-in", "url": "#" },
+                        { "icon": "fab fa-twitter", "url": "#" }
+                    ]
+                }
+            ]
+        },
+        "mvp": {
+            "title": "MVP APPS",
+            "mainTitle": "MVP",
+            "items": [
+                {
+                    "className": "shadow rounded img-fluid",
+                    "src": "https://ico.themenio.com/images/app-screens/sc-medium-b.png",
+                    "alt": "image sc-medium-b",
+                    "width": 500,
+                    "height": 300
+                },
+                {
+                    "className": "nk-block-img-plx plx-screen shadow rounded img-fluid",
+                    "src": "https://ico.themenio.com/images/app-screens/sc-small-d.jpg",
+                    "alt": "image sc-small-d",
+                    "width": 500,
+                    "height": 300
+                },
+                {   
+                    "className": "nk-block-img-plx plx-circle plx-circle-s1 img-fluid",
+                    "src": "https://ico.themenio.com/images/gfx/circle-a.png",
+                    "alt": "image circle-a",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "className": "nk-block-img-plx plx-polygon plx-polygon-s1 img-fluid",
+                    "src": "https://ico.themenio.com/images/gfx/polygon-a.png",
+                    "alt": "image polygon-a",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "className": "nk-block-img-plx plx-triangle plx-triangle-s1 img-fluid",
+                    "src": "https://ico.themenio.com/images/gfx/triangle-a.png",
+                    "alt": "triangle-a",
+                    "width": 100,
+                    "height": 100
+                }
+            ]
+        },
         "chart":[
             {
                 "label": "Public Sale",
@@ -228,175 +242,171 @@
                 "colorHover": "#f42f54"
             }
         ],
-        "token":[
-            {
-                "title": "Start Time",
-                "description": "15 Sep, 2022",
-                "colorClass": "color-1",
-                "delay": "0.7"
-            },
-            {
-                "title": "Token Symbol",
-                "description": "ICOX",
-                "colorClass": "color-1",
-                "delay": "0.7"
-            },
-            {
-                "title": "End Time",
-                "description": "30 Nov, 2022",
-                "colorClass": "color-2",
-                "delay": "0.75"
-            },
-            {
-                "title": "Tokens Offered",
-                "description": "15.0 M",
-                "colorClass": "color-2",
-                "delay": "0.75"
-            },
-            {
-                "title": "Soft Cap",
-                "description": "1.5 K",
-                "colorClass": "color-3",
-                "delay": "0.8"
-            },
-            {
-                "title": "Soft Cap",
-                "description": "1.5 K",
-                "colorClass": "color-3",
-                "delay": "0.8"
-            },
-            {
-                "title": "Crowdsale",
-                "description": "10.5 M",
-                "colorClass": "color-4",
-                "delay": "0.8"
-            },
-            {
-                "title": "Crowdsale",
-                "description": "10.5 M",
-                "colorClass": "color-4",
-                "delay": "0.8"
-            },
-            {
-                "title": "Hard Cap",
-                "description": "12.0 M",
-                "colorClass": "color-5",
-                "delay": "0.9"
-            },
-            {
-                "title": "Hard Cap",
-                "description": "12.0 M",
-                "colorClass": "color-5",
-                "delay": "0.9"
-            }
-        ],
-        "ourteamMember":[
-            {
-                "image": "https://ico.themenio.com/images/azalea/team-a.jpg",
-                "name": "Louis Baker",
-                "position": "CEO & Lead Blockchain",
-                "socialLinks": {
-                    "facebook": "#",
-                    "linkedin": "#",
-                    "twitter": "#"
+        "token": {
+            "title": "TOKEN DETAILS",
+            "mainTitle": "TOKEN INFORMATION",
+            "items": [
+                {
+                    "title": "Start Time",
+                    "description": "15 Sep, 2022",
+                    "colorClass": "color-1",
+                    "delay": "0.7"
                 },
-                "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
-                "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
-                "progress": [
-                    {
-                        "title": "BLOCKCHAIN",
-                        "percentage": 85
-                    },
-                    {
-                        "title": "DECENTRALIZATION",
-                        "percentage": 68
-                    }
-                ]
-            },
-            {
-                "image": "https://ico.themenio.com/images/azalea/team-b.jpg",
-                "name": "Stefan Harary",
-                "position": "CTO & Senior Developer",
-                "socialLinks": {
-                    "facebook": "#",
-                    "linkedin": "#",
-                    "twitter": "#"
+                {
+                    "title": "Token Symbol",
+                    "description": "ICOX",
+                    "colorClass": "color-1",
+                    "delay": "0.7"
                 },
-                "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
-                "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
-                "progress": []
-            },
-            {
-                "image": "https://ico.themenio.com/images/azalea/team-c.jpg",
-                "name": "Moises Teare",
-                "position": "Blockchain App Developer",
-                "socialLinks": {
-                    "facebook": "#",
-                    "linkedin": "#",
-                    "twitter": "#"
+                {
+                    "title": "End Time",
+                    "description": "30 Nov, 2022",
+                    "colorClass": "color-2",
+                    "delay": "0.75"
                 },
-                "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
-                "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
-                "progress": []
-            },
-            {
-                "image": "https://ico.themenio.com/images/azalea/team-d.jpg",
-                "name": "Louis Baker",
-                "position": "CEO & Lead Blockchain",
-                "socialLinks": {
-                    "facebook": "#",
-                    "linkedin": "#",
-                    "twitter": "#"
+                {
+                    "title": "Tokens Offered",
+                    "description": "15.0 M",
+                    "colorClass": "color-2",
+                    "delay": "0.75"
                 },
-                "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
-                "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
-                "progress": []
-            }
-        ], 
-        "tabsPlatform":[
-            {
-                "id": "tab-1-1",
-                "title": "A Open Platform for our Participators",
-                "description": "Each participator can choose the trader and to sign a contract.",
-                "features": [
-                    {
-                        "icon": "ikon-bulb",
-                        "text": "User have full access to trading consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-                    },
-                    {
-                        "icon": "ikon-paricle",
-                        "text": "Our multi-cryptocurrency exchange will uis aute irure dolor in reprehenderit in voluptate velit uuntur magni dolores esse cillum."
-                    },
-                    {
-                        "icon": "ikon-bulb-2",
-                        "text": "Users will be able to take quis nostrum exercitationem ullam corporis susci pitlabo riosam, nisi ut aliquid ex ea commodie."
-                    },
-                    {
-                        "icon": "ikon-document-2",
-                        "text": "Sign a smart-contract to allow our trader’s access for live trading corporis cryptocurrency susci pitlabo riosam, nisi ut."
-                    }
-                ],
-                "image": {
-                    "src": "https://ico.themenio.com/images/app-screens/sc-medium-a.png",
-                    "alt": "A Open Platform for Participators",
-                    "width": 450,
-                    "height": 450
+                {
+                    "title": "Soft Cap",
+                    "description": "1.5 K",
+                    "colorClass": "color-3",
+                    "delay": "0.8"
+                },
+                {
+                    "title": "Crowdsale",
+                    "description": "10.5 M",
+                    "colorClass": "color-4",
+                    "delay": "0.8"
+                },
+                {
+                    "title": "Hard Cap",
+                    "description": "12.0 M",
+                    "colorClass": "color-5",
+                    "delay": "0.9"
                 }
-            },
-            {
-                "id": "tab-1-2",
-                "title": "For Traders",
-                "description": "Some description here for traders...",
-                "features": [],
-                "image": {
-                    "src": "https://ico.themenio.com/images/app-screens/sc-medium-b.png",
-                    "alt": "For Traders",
-                    "width": 450,
-                    "height": 450
+            ]
+        },
+        "ourteamMember":{
+            "title": "CORE TEAM",
+            "mainTitle": "OUR TEAM",
+            "members": [
+                {
+                    "image": "https://ico.themenio.com/images/azalea/team-a.jpg",
+                    "name": "Louis Baker",
+                    "position": "CEO & Lead Blockchain",
+                    "socialLinks": {
+                        "facebook": "#",
+                        "linkedin": "#",
+                        "twitter": "#"
+                    },
+                    "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
+                    "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
+                    "progress": [
+                        {
+                            "title": "BLOCKCHAIN",
+                            "percentage": 85
+                        },
+                        {
+                            "title": "DECENTRALIZATION",
+                            "percentage": 68
+                        }
+                    ]
+                },
+                {
+                    "image": "https://ico.themenio.com/images/azalea/team-b.jpg",
+                    "name": "Stefan Harary",
+                    "position": "CTO & Senior Developer",
+                    "socialLinks": {
+                        "facebook": "#",
+                        "linkedin": "#",
+                        "twitter": "#"
+                    },
+                    "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
+                    "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
+                    "progress": []
+                },
+                {
+                    "image": "https://ico.themenio.com/images/azalea/team-c.jpg",
+                    "name": "Moises Teare",
+                    "position": "Blockchain App Developer",
+                    "socialLinks": {
+                        "facebook": "#",
+                        "linkedin": "#",
+                        "twitter": "#"
+                    },
+                    "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
+                    "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
+                    "progress": []
+                },
+                {
+                    "image": "https://ico.themenio.com/images/azalea/team-d.jpg",
+                    "name": "Louis Baker",
+                    "position": "CEO & Lead Blockchain",
+                    "socialLinks": {
+                        "facebook": "#",
+                        "linkedin": "#",
+                        "twitter": "#"
+                    },
+                    "description1": "He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem.",
+                    "description2": "Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.",
+                    "progress": []
                 }
-            }
-        ],
+            ]
+        }, 
+        "platform": {
+            "title": "ICOX PRODUCTS",
+            "mainTitle": "PLATFORM",
+            "tabsPlatform": [
+                {
+                    "id": "tab-1-1",
+                    "title": "A Open Platform for our Participators",
+                    "description": "Each participator can choose the trader and to sign a contract.",
+                    "features": [
+                        {
+                            "icon": "ikon-bulb",
+                            "text": "User have full access to trading consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                        },
+                        {
+                            "icon": "ikon-paricle",
+                            "text": "Our multi-cryptocurrency exchange will uis aute irure dolor in reprehenderit in voluptate velit uuntur magni dolores esse cillum."
+                        },
+                        {
+                            "icon": "ikon-bulb-2",
+                            "text": "Users will be able to take quis nostrum exercitationem ullam corporis susci pitlabo riosam, nisi ut aliquid ex ea commodie."
+                        },
+                        {
+                            "icon": "ikon-document-2",
+                            "text": "Sign a smart-contract to allow our trader’s access for live trading corporis cryptocurrency susci pitlabo riosam, nisi ut."
+                        }
+                    ],
+                    "image": {
+                        "src": "https://ico.themenio.com/images/app-screens/sc-medium-a.png",
+                        "alt": "A Open Platform for Participators",
+                        "width": 450,
+                        "height": 450
+                    }
+                },
+                {
+                    "id": "tab-1-2",
+                    "title": "For Traders",
+                    "description": "Some description here for traders...",
+                    "features": [],
+                    "image": {
+                        "src": "https://ico.themenio.com/images/app-screens/sc-medium-b.png",
+                        "alt": "For Traders",
+                        "width": 450,
+                        "height": 450
+                    }
+                }
+            ]
+        },
         "ecosystems":{
+            "title": "CORE ECOSYSTEMS",
+            "mainTitle": "ECOSYSTEMS",
             "contents":[
                 {
                     "id": 1, "title": "ONE MARKETPLACE",
@@ -417,96 +427,108 @@
             ],
             "imageBackground": "https://ico.themenio.com/images/globe-particle.png"            
         },
-        "documents": [
-            {
-                "title": "White Paper",
-                "year": 2022,
-                "image": "https://ico.themenio.com/images/azalea/doc-a.jpg",
-                "lang": "ENGLISH",
-                "downloadLink": "#"
-            },
-            {
-                "title": "Two Pager",
-                "year": 2022,
-                "image": "https://ico.themenio.com/images/azalea/doc-b.jpg",
-                "lang": "ENGLISH",
-                "downloadLink": "#"
-            },
-            {
-                "title": "One Pager",
-                "year": 2022,
-                "image": "https://ico.themenio.com/images/azalea/doc-c.jpg",
-                "lang": "ENGLISH",
-                "downloadLink": "#"
-            },
-            {
-                "title": "Presentation",
-                "year": 2022,
-                "image": "https://ico.themenio.com/images/azalea/doc-d.jpg",
-                "lang": "ENGLISH",
-                "downloadLink": "#"
-            }
-        ],
-        "inpress":[
-            {
-                "image": "https://ico.themenio.com/images/partners/a-light.png",
-                "alt": "Partner A"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/b-light.png",
-                "alt": "Partner B"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/c-light.png",
-                "alt": "Partner C"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/d-light.png",
-                "alt": "Partner D"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/e-light.png",
-                "alt": "Partner E"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/f-light.png",
-                "alt": "Partner F"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/a-light.png",
-                "alt": "Partner A"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/b-light.png",
-                "alt": "Partner B"
-            },
-            {
-                "image": "https://ico.themenio.com/images/partners/c-light.png",
-                "alt": "Partner C"
-            }
-        ],
-        "news":[
-            {
-                "title": "Fintech G20 Global Summit 2022",
-                "location": "New York, United State",
-                "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-a.jpg"
-            },
-            {
-                "title": "Blockchain Global Summit 2022",
-                "location": "California, United State",
-                "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-b.jpg"
-            },
-            {
-                "title": "Fintech G20 Global Summit 2022",
-                "location": "New York, United State",
-                "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-a.jpg"
-            },
-            {
-                "title": "Blockchain Global Summit 2022",
-                "location": "California, United State",
-                "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-b.jpg"
-            }
-        ],
+        "documents": {
+            "title": "DOWNLOADS",
+            "mainTitle": "DOCUMENTS",
+            "items": [
+                {
+                    "title": "White Paper",
+                    "year": 2022,
+                    "image": "https://ico.themenio.com/images/azalea/doc-a.jpg",
+                    "lang": "ENGLISH",
+                    "downloadLink": "#"
+                },
+                {
+                    "title": "Two Pager",
+                    "year": 2022,
+                    "image": "https://ico.themenio.com/images/azalea/doc-b.jpg",
+                    "lang": "ENGLISH",
+                    "downloadLink": "#"
+                },
+                {
+                    "title": "One Pager",
+                    "year": 2022,
+                    "image": "https://ico.themenio.com/images/azalea/doc-c.jpg",
+                    "lang": "ENGLISH",
+                    "downloadLink": "#"
+                },
+                {
+                    "title": "Presentation",
+                    "year": 2022,
+                    "image": "https://ico.themenio.com/images/azalea/doc-d.jpg",
+                    "lang": "ENGLISH",
+                    "downloadLink": "#"
+                }
+            ]
+    },
+        "inpress":{
+            "title": "PRESS",
+            "mainTitle": "IN PRESS",
+            "items":[
+                {
+                    "image": "https://ico.themenio.com/images/partners/a-light.png",
+                    "alt": "Partner A"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/b-light.png",
+                    "alt": "Partner B"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/c-light.png",
+                    "alt": "Partner C"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/d-light.png",
+                    "alt": "Partner D"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/e-light.png",
+                    "alt": "Partner E"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/f-light.png",
+                    "alt": "Partner F"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/a-light.png",
+                    "alt": "Partner A"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/b-light.png",
+                    "alt": "Partner B"
+                },
+                {
+                    "image": "https://ico.themenio.com/images/partners/c-light.png",
+                    "alt": "Partner C"
+                }
+            ]
+        },
+        "news":{
+            "title": "UPDATE",
+            "mainTitle": "NEWS",
+            "items":[
+                {
+                    "title": "Fintech G20 Global Summit 2022",
+                    "location": "New York, United State",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-a.jpg"
+                },
+                {
+                    "title": "Blockchain Global Summit 2022",
+                    "location": "California, United State",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-b.jpg"
+                },
+                {
+                    "title": "Fintech G20 Global Summit 2022",
+                    "location": "New York, United State",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-a.jpg"
+                },
+                {
+                    "title": "Blockchain Global Summit 2022",
+                    "location": "California, United State",
+                    "imageUrl": "https://ico.themenio.com/images/azalea/news-hr-b.jpg"
+                }
+            ]
+        },
         "partners":[
             { "image": "https://ico.themenio.com/images/partners/a-light.png", "alt": "image of a-light" },
             { "image": "https://ico.themenio.com/images/partners/b-light.png", "alt": "image of b-light" },
@@ -542,43 +564,47 @@
                 }
             }
         ],
-        "faqTabs": [
-        {
-        "id": "tab1",
-        "title": "General Questions",
-            "faqs": [
+        "faqTabs":{
+            "title": "UPDATE",
+            "mainTitle": "FAQS",
+            "items":[
                 {
-                "title": "What is ICO Crypto?",
-                "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                "id": "tab1",
+                "title": "General Questions",
+                    "faqs": [
+                        {
+                        "title": "What is ICO Crypto?",
+                        "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                        },
+                        {
+                        "title": "What cryptocurrencies can I use to purchase?",
+                        "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                        },
+                        {
+                        "title": "How can I participate in the ICO Token sale?",
+                        "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                        },
+                        {
+                        "title": "How do I benefit from the ICO Token?",
+                        "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                        }
+                    ]
                 },
                 {
-                "title": "What cryptocurrencies can I use to purchase?",
-                "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
-                },
-                {
-                "title": "How can I participate in the ICO Token sale?",
-                "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
-                },
-                {
-                "title": "How do I benefit from the ICO Token?",
-                "content": "Once ICO period is launched, You can purchased Token with Etherum, Bitcoin or Litecoin. You can also tempor incididunt ut labore et dolore magna aliqua sed do eiusmod eaque ipsa."
+                "id": "tab2",
+                "title": "Technical Support",
+                "faqs": [
+                    {
+                    "title": "How to reset my password?",
+                    "content": "Click on 'Forgot Password' and follow the instructions."
+                    },
+                    {
+                    "title": "How to contact support?",
+                    "content": "You can reach us via our support email."
+                    }
+                ]
                 }
             ]
-        },
-        {
-        "id": "tab2",
-        "title": "Technical Support",
-        "faqs": [
-            {
-            "title": "How to reset my password?",
-            "content": "Click on 'Forgot Password' and follow the instructions."
-            },
-            {
-            "title": "How to contact support?",
-            "content": "You can reach us via our support email."
-            }
-        ]
         }
-        ]
     }
 }
