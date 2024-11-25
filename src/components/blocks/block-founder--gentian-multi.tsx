@@ -21,7 +21,7 @@ const Founder = ({
       <div className="nk-block nk-block-team-featured team-featured">
         <div className="row align-items-center">
             <div className="col-lg-5 mb-4 mb-lg-0">
-                <div className="team-featured-photo tc-light animated" data-animate="fadeInUp" data-delay=".1" style={{ visibility: "visible", animationDelay: "0.1s" }} style={{ visibility: "visible", animationDelay: "0.1s" }}>
+                <div className="team-featured-photo tc-light animated" data-animate="fadeInUp" data-delay=".1" style={{ visibility: "visible", animationDelay: "0.1s" }} >
                     <Image 
                         src={founderData.imageSrc}
                         alt={founderData.imageAlt}
