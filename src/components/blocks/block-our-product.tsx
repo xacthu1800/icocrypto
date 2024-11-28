@@ -39,7 +39,7 @@ export const BlockOurProduct: React.FC<BlockOurProductProps> = ({ products }) =>
                                 <Image
                                     src={product.image}
                                     alt={product.title}
-                                    width={300}
+                                    width={350}
                                     height={200}
                                 />
                             </div>

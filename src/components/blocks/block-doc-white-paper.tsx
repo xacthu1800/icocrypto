@@ -31,27 +31,28 @@ const DocWhitePaper: React.FC<DocWhitePaperProps> = ({ docData }) => {
                   <Image 
                       src={doc.imageUrl} 
                       alt="doc" 
-                      width={450} 
-                      height={150} 
+                      width={380} 
+                      height={100} 
                     />
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="nk-block-text">
-                    <h4 className="title title-md">{doc.title}</h4> 
-                    <p>{doc.description}</p>
+                    <h4 className="title title-md" style={{ color: "#007bff" }}>{doc.title}</h4> 
+                    <p className="text-secondary">{doc.description}</p>
                     <ul className="btn-grp gutter-30px gutter-vr-20px">
                       <li>
                         <a href={doc.whitePaperLink} className="btn btn-grad">
                           Download Whitepaper
                         </a>
                       </li>
-                      <li>
-                        <a href={doc.twoPagerLink} className="link">
+                    </ul>
+                    <div style={{ marginBottom: "20px" }}/> 
+                    <ul>
+                        <a href={doc.twoPagerLink} className="link" style={{ color: "#007bff" }}>
                           <em className="link-icon fas fa-file-alt"></em>{' '}
                           <span>Download Two Pager</span>
                         </a>
-                      </li>
                     </ul>
                   </div>
                 </div>

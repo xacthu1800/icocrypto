@@ -38,16 +38,16 @@ const BlockContactGentianMulti: React.FC<BlockContactGentianMultiProps> = ({
         {/* Left column */}
         <div className="col-lg-6">
           <div className="contact-wrap split split-left split-lg-left bg-white">
-            <h5 className="title title-md">{formTitle}</h5>
+            <h5 className="title title-md" style={{ color: "#007bff" }}>{formTitle}</h5>
             <form className="nk-form-submit" action="form/contact.php" method="post">
               {formFields.map((field, index) => (
                 <div className="field-item" key={index}>
                   {field.type === 'textarea' ? (
-                    <textarea name={field.name} className="input-line input-textarea"></textarea>
+                    <textarea name={field.name} className="input-line input-textarea "></textarea>
                   ) : (
-                    <input name={field.name} type={field.type} className="input-line" />
+                    <input name={field.name} type={field.type} className="input-line"/>
                   )}
-                  <label className="field-label field-label-line">{field.label}</label>
+                  <label className="field-label field-label-line text-secondary" >{field.label}</label>
                 </div>
               ))}
               <div className="row">
