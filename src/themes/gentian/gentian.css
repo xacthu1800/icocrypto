@@ -7,56 +7,56 @@
 **/
 @font-face {
     font-family: 'Roboto';
-    src: url("../fonts/Roboto-Light.eot");
-    src: local("Roboto Light"),local("Roboto-Light"),url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"),url("../fonts/Roboto-Light.woff2") format("woff2"),url("../fonts/Roboto-Light.woff") format("woff"),url("../fonts/Roboto-Light.ttf") format("truetype");
+    src: url("/fonts/Roboto-Light.eot");
+    src: local("Roboto Light"),local("Roboto-Light"),url("/fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"),url("/fonts/Roboto-Light.woff2") format("woff2"),url("/fonts/Roboto-Light.woff") format("woff"),url("/fonts/Roboto-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url("../fonts/Roboto-Regular.eot");
-    src: local("Roboto"),local("Roboto-Regular"),url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),url("../fonts/Roboto-Regular.woff2") format("woff2"),url("../fonts/Roboto-Regular.woff") format("woff"),url("../fonts/Roboto-Regular.ttf") format("truetype");
+    src: url("/fonts/Roboto-Regular.eot");
+    src: local("Roboto"),local("Roboto-Regular"),url("/fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),url("/fonts/Roboto-Regular.woff2") format("woff2"),url("/fonts/Roboto-Regular.woff") format("woff"),url("/fonts/Roboto-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url("../fonts/Roboto-Medium.eot");
-    src: local("Roboto Medium"),local("Roboto-Medium"),url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),url("../fonts/Roboto-Medium.woff2") format("woff2"),url("../fonts/Roboto-Medium.woff") format("woff"),url("../fonts/Roboto-Medium.ttf") format("truetype");
+    src: url("/fonts/Roboto-Medium.eot");
+    src: local("Roboto Medium"),local("Roboto-Medium"),url("/fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),url("/fonts/Roboto-Medium.woff2") format("woff2"),url("/fonts/Roboto-Medium.woff") format("woff"),url("/fonts/Roboto-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url("../fonts/Roboto-Bold.eot");
-    src: local("Roboto Bold"),local("Roboto-Bold"),url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"),url("../fonts/Roboto-Bold.woff2") format("woff2"),url("../fonts/Roboto-Bold.woff") format("woff"),url("../fonts/Roboto-Bold.ttf") format("truetype");
+    src: url("/fonts/Roboto-Bold.eot");
+    src: local("Roboto Bold"),local("Roboto-Bold"),url("/fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"),url("/fonts/Roboto-Bold.woff2") format("woff2"),url("/fonts/Roboto-Bold.woff") format("woff"),url("/fonts/Roboto-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Quicksand';
-    src: url("../fonts/Quicksand-Light.eot");
-    src: local("Quicksand Light"),local("Quicksand-Light"),url("../fonts/Quicksand-Light.eot?#iefix") format("embedded-opentype"),url("../fonts/Quicksand-Light.woff2") format("woff2"),url("../fonts/Quicksand-Light.woff") format("woff"),url("../fonts/Quicksand-Light.ttf") format("truetype");
+    src: url("/fonts/Quicksand-Light.eot");
+    src: local("Quicksand Light"),local("Quicksand-Light"),url("/fonts/Quicksand-Light.eot?#iefix") format("embedded-opentype"),url("/fonts/Quicksand-Light.woff2") format("woff2"),url("/fonts/Quicksand-Light.woff") format("woff"),url("/fonts/Quicksand-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Quicksand';
-    src: url("../fonts/Quicksand-Medium.eot");
-    src: local("Quicksand Medium"),local("Quicksand-Medium"),url("../fonts/Quicksand-Medium.eot?#iefix") format("embedded-opentype"),url("../fonts/Quicksand-Medium.woff2") format("woff2"),url("../fonts/Quicksand-Medium.woff") format("woff"),url("../fonts/Quicksand-Medium.ttf") format("truetype");
+    src: url("/fonts/Quicksand-Medium.eot");
+    src: local("Quicksand Medium"),local("Quicksand-Medium"),url("/fonts/Quicksand-Medium.eot?#iefix") format("embedded-opentype"),url("/fonts/Quicksand-Medium.woff2") format("woff2"),url("/fonts/Quicksand-Medium.woff") format("woff"),url("/fonts/Quicksand-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Quicksand';
-    src: url("../fonts/Quicksand-Bold.eot");
-    src: local("Quicksand Bold"),local("Quicksand-Bold"),url("../fonts/Quicksand-Bold.eot?#iefix") format("embedded-opentype"),url("../fonts/Quicksand-Bold.woff2") format("woff2"),url("../fonts/Quicksand-Bold.woff") format("woff"),url("../fonts/Quicksand-Bold.ttf") format("truetype");
+    src: url("/fonts/Quicksand-Bold.eot");
+    src: local("Quicksand Bold"),local("Quicksand-Bold"),url("/fonts/Quicksand-Bold.eot?#iefix") format("embedded-opentype"),url("/fonts/Quicksand-Bold.woff2") format("woff2"),url("/fonts/Quicksand-Bold.woff") format("woff"),url("/fonts/Quicksand-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal
 }
@@ -1798,51 +1798,51 @@ h6,.h6,.fz-6 {
 }
 
 .nk-df-mask-a,.mask-a:before,.mask-a-bg {
-    background-image: url(../images/mask-a.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-a.svg)
 }
 
 .nk-df-mask-a-md,.mask-a-md:before,.mask-a-md-bg {
-    background-image: url(../images/mask-a-md.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-a-md.svg)
 }
 
 .nk-df-mask-a-dark,.mask-a-dark:before,.mask-a-dark-bg {
-    background-image: url(../images/mask-a-dark.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-a-dark.svg)
 }
 
 .nk-df-mask-b,.mask-b:before,.mask-b-bg {
-    background-image: url(../images/mask-b.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-b.svg)
 }
 
 .nk-df-mask-c,.mask-c:before,.mask-c-bg {
-    background-image: url(../images/mask-c.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-c.svg)
 }
 
 .nk-df-mask-c-light,.mask-c-light:before,.mask-c-light-bg {
-    background-image: url(../images/mask-c-light.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-c-light.svg)
 }
 
 .nk-df-mask-c-dark,.mask-c-dark:before,.mask-c-dark-bg {
-    background-image: url(../images/mask-c-dark.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-c-dark.svg)
 }
 
 .nk-df-mask-d,.mask-d:before,.mask-d-bg {
-    background-image: url(../images/mask-d.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-d.svg)
 }
 
 .nk-df-mask-d2,.mask-d2:before,.mask-d2-bg {
-    background-image: url(../images/mask-d2.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-d2.svg)
 }
 
 .nk-df-mask-e,.mask-e:before,.mask-e-bg {
-    background-image: url(../images/mask-e.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-e.svg)
 }
 
 .nk-df-mask-f,.mask-f:before,.mask-f-bg {
-    background-image: url(../images/mask-f.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-f.svg)
 }
 
 .nk-df-mask-f-footer,.mask-f-footer:before,.mask-f-footer-bg {
-    background-image: url(../images/mask-f-footer.svg)
+    background-image: url(https://ico.themenio.com/assets/images/mask-f-footer.svg)
 }
 
 .mask-a:before,.mask-a-md:before,.mask-a-dark:before {
@@ -1915,171 +1915,171 @@ h6,.h6,.fz-6 {
 }
 
 .nk-df-shape-a,.shape-a:after,.shape-a-bg,.bg-shape-a {
-    background-image: url(../images/shape-a.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-a.png)
 }
 
 .nk-df-shape-a-sm,.shape-a-sm:after,.shape-a-sm-bg {
-    background-image: url(../images/shape-a-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-a-sm.png)
 }
 
 .nk-df-shape-b,.shape-b:after,.shape-b-bg,.bg-shape-b {
-    background-image: url(../images/shape-b.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-b.png)
 }
 
 .nk-df-shape-b-sm,.shape-b-sm:after,.shape-b-sm-bg {
-    background-image: url(../images/shape-b-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-b-sm.png)
 }
 
 .nk-df-shape-c,.shape-c:after,.shape-c-bg {
-    background-image: url(../images/shape-c.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-c.png)
 }
 
 .nk-df-shape-c-sm,.shape-c-sm:after,.shape-c-sm-bg {
-    background-image: url(../images/shape-c-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-c-sm.png)
 }
 
 .nk-df-shape-d,.shape-d:after,.shape-d-bg {
-    background-image: url(../images/shape-d.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-d.png)
 }
 
 .nk-df-shape-d-sm,.shape-d-sm:after,.shape-d-sm-bg {
-    background-image: url(../images/shape-d-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-d-sm.png)
 }
 
 .nk-df-shape-e,.shape-e:after,.shape-e-bg {
-    background-image: url(../images/shape-e.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-e.png)
 }
 
 .nk-df-shape-e-sm,.shape-e-sm:after,.shape-e-sm-bg {
-    background-image: url(../images/shape-e-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-e-sm.png)
 }
 
 .nk-df-shape-f,.shape-f:after,.shape-f-bg {
-    background-image: url(../images/shape-f.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-f.png)
 }
 
 .nk-df-shape-f-sm,.shape-f-sm:after,.shape-f-sm-bg {
-    background-image: url(../images/shape-f-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-f-sm.png)
 }
 
 .nk-df-shape-g,.shape-g:after,.shape-g-bg {
-    background-image: url(../images/shape-g.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-g.png)
 }
 
 .nk-df-shape-g-sm,.shape-g-sm:after,.shape-g-sm-bg {
-    background-image: url(../images/shape-g-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-g-sm.png)
 }
 
 .nk-df-shape-h,.shape-h:after,.shape-h-bg {
-    background-image: url(../images/shape-h.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-h.png)
 }
 
 .nk-df-shape-h-sm,.shape-h-sm:after,.shape-h-sm-bg {
-    background-image: url(../images/shape-h-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-h-sm.png)
 }
 
 .nk-df-shape-i,.shape-i:after,.shape-i-bg {
-    background-image: url(../images/shape-i.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-i.png)
 }
 
 .nk-df-shape-i-sm,.shape-i-sm:after,.shape-i-sm-bg {
-    background-image: url(../images/shape-i-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-i-sm.png)
 }
 
 .nk-df-shape-m,.shape-m:after,.shape-m-bg {
-    background-image: url(../images/shape-m.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-m.png)
 }
 
 .nk-df-shape-n,.shape-n:after,.shape-n-bg {
-    background-image: url(../images/shape-n.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-n.png)
 }
 
 .nk-df-shape-o,.shape-o:after,.shape-o-bg {
-    background-image: url(../images/shape-o.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-o.png)
 }
 
 .nk-df-shape-p,.shape-p:after,.shape-p-bg {
-    background-image: url(../images/shape-p.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-p.png)
 }
 
 .nk-df-shape-q,.shape-q:after,.shape-q-bg {
-    background-image: url(../images/shape-q.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-q.png)
 }
 
 .nk-df-shape-r,.shape-r:after,.shape-r-bg {
-    background-image: url(../images/shape-r.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-r.png)
 }
 
 .nk-df-shape-s,.shape-s:after,.shape-s-bg {
-    background-image: url(../images/shape-s.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-s.png)
 }
 
 .nk-df-shape-s-sm,.shape-s-sm:after,.shape-s-sm-bg {
-    background-image: url(../images/shape-s-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-s-sm.png)
 }
 
 .nk-df-shape-t,.shape-t:after,.shape-t-bg {
-    background-image: url(../images/shape-t.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-t.png)
 }
 
 .nk-df-shape-u,.shape-u:after,.shape-u-bg {
-    background-image: url(../images/shape-u.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-u.png)
 }
 
 .nk-df-shape-v,.shape-v:after,.shape-v-bg {
-    background-image: url(../images/shape-v.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-v.png)
 }
 
 .nk-df-shape-w,.shape-w:after,.shape-w-bg {
-    background-image: url(../images/shape-w.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-w.png)
 }
 
 .nk-df-shape-x,.shape-x:after,.shape-x-bg {
-    background-image: url(../images/shape-x.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-x.png)
 }
 
 .nk-df-shape-x-2,.shape-x-2:after,.shape-x-2-bg {
-    background-image: url(../images/shape-x-2.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-x-2.png)
 }
 
 .nk-df-shape-x-3,.shape-x-3:after,.shape-x-3-bg {
-    background-image: url(../images/shape-x-3.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-x-3.png)
 }
 
 .nk-df-shape-y,.shape-y:after,.shape-y-bg {
-    background-image: url(../images/shape-y.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-y.png)
 }
 
 .nk-df-shape-z,.shape-z:after,.shape-z-bg {
-    background-image: url(../images/shape-z.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z.png)
 }
 
 .nk-df-shape-z2,.shape-z2:after,.shape-z2-bg {
-    background-image: url(../images/shape-z2.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z2.png)
 }
 
 .nk-df-shape-a2,.shape-a2:after,.shape-a2-bg {
-    background-image: url(../images/shape-a2.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-a2.png)
 }
 
 .nk-df-shape-z3,.shape-z3:after,.shape-z3-bg {
-    background-image: url(../images/shape-z3.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z3.png)
 }
 
 .nk-df-shape-z4,.shape-z4:after,.shape-z4-bg {
-    background-image: url(../images/shape-z4.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z4.png)
 }
 
 .nk-df-shape-z6,.shape-z6:after,.shape-z6-bg {
-    background-image: url(../images/shape-z6.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z6.png)
 }
 
 .nk-df-shape-z6-sm,.shape-z6-sm:after,.shape-z6-sm-bg {
-    background-image: url(../images/shape-z6-sm.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z6-sm.png)
 }
 
 .nk-df-shape-z7,.shape-z7:after,.shape-z7-bg {
-    background-image: url(../images/shape-z7.png)
+    background-image: url(https://ico.themenio.com/assets/images/shape-z7.png)
 }
 
 .shape-contain:after {
@@ -2122,15 +2122,15 @@ h6,.h6,.fz-6 {
 }
 
 .blur-a:after,.blur-a-bg {
-    background-image: url(../images/blur-a.png)
+    background-image: url(https://ico.themenio.com/assets/images/blur-a.png)
 }
 
 .blur-b:after,.blur-b-bg {
-    background-image: url(../images/blur-b.png)
+    background-image: url(https://ico.themenio.com/assets/images/blur-b.png)
 }
 
 .blur-c:after,.blur-c-bg {
-    background-image: url(../images/blur-c.png)
+    background-image: url(https://ico.themenio.com/assets/images/blur-c.png)
 }
 
 .blur-a:after,.blur-b:after,.blur-c:after {
@@ -2139,7 +2139,7 @@ h6,.h6,.fz-6 {
 }
 
 .ovm-img-avatars:before,.ovm-img-avatars-bg {
-    background-image: url(../images/ovm-img-avatars.png)
+    background-image: url(https://ico.themenio.com/assets/images/ovm-img-avatars.png)
 }
 
 .ovm-img-avatars:before {
@@ -2294,12 +2294,12 @@ h6,.h6,.fz-6 {
 }
 
 .bg-pattern-dots-color {
-    background-image: url(../images/dot-a.png);
+    background-image: url(https://ico.themenio.com/assets/images/dot-a.png);
     background-size: contain
 }
 
 .bg-pattern-dots {
-    background-image: url(../images/dot-b.png);
+    background-image: url(https://ico.themenio.com/assets/images/dot-b.png);
     background-size: contain;
     background-repeat: repeat-y
 }
@@ -2836,22 +2836,22 @@ hr {
     top: 15%;
     left: -4%;
     width: 100px;
-    background-image: url(../images/ui-shape-a.svg)
+    background-image: url(https://ico.themenio.com/assets/images/ui-shape-a.svg)
 }
 
 .ui-shape:after {
     bottom: 10%;
     right: -4%;
     width: 90px;
-    background-image: url(../images/ui-shape-b.svg)
+    background-image: url(https://ico.themenio.com/assets/images/ui-shape-b.svg)
 }
 
 .ui-shape-light:before {
-    background-image: url(../images/ui-shape-light-a.svg)
+    background-image: url(https://ico.themenio.com/assets/images/ui-shape-light-a.svg)
 }
 
 .ui-shape-light:after {
-    background-image: url(../images/ui-shape-light-b.svg)
+    background-image: url(https://ico.themenio.com/assets/images/ui-shape-light-b.svg)
 }
 
 .ui-shape-s1:after {
@@ -3474,7 +3474,7 @@ hr {
 
 .ui-mask-s2:before {
     display: block;
-    background-image: url(../images/mask-line-a.png)
+    background-image: url(https://ico.themenio.com/assets/images/mask-line-a.png)
 }
 
 .ui-mask-s2.ui-mask-left:before {
@@ -3496,7 +3496,7 @@ hr {
 
 .ui-mask-s3:before {
     display: block;
-    background-image: url(../images/mask-line-b.png)
+    background-image: url(https://ico.themenio.com/assets/images/mask-line-b.png)
 }
 
 .ui-mask-s3.ui-mask-right:before {
@@ -3529,7 +3529,7 @@ hr {
 
 .ui-mask-s5:before {
     display: block;
-    background-image: url(../images/mask-line-c.png)
+    background-image: url(https://ico.themenio.com/assets/images/mask-line-c.png)
 }
 
 .ui-mask-s5.ui-mask-right:before {
@@ -3551,7 +3551,7 @@ hr {
 
 .ui-mask-s6:before {
     display: block;
-    background-image: url(../images/mask-line-d.png)
+    background-image: url(https://ico.themenio.com/assets/images/mask-line-d.png)
 }
 
 .ui-mask-s6.ui-mask-left:before {
@@ -3588,7 +3588,7 @@ hr {
 
 .ui-mask-s8:before {
     display: block;
-    background-image: url(../images/polygon-line-a.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-line-a.png)
 }
 
 .ui-mask-s8:after {
@@ -3603,7 +3603,7 @@ hr {
 .ui-mask-s9:before {
     display: block;
     top: -31px;
-    background-image: url(../images/polygon-line-b.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-line-b.png)
 }
 
 .ui-mask-s9:after {
@@ -3618,7 +3618,7 @@ hr {
 .ui-mask-s10:before {
     display: block;
     top: -31px;
-    background-image: url(../images/polygon-line-a-fill.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-line-a-fill.png)
 }
 
 .ui-mask-s10:after {
@@ -3633,7 +3633,7 @@ hr {
 .ui-mask-s11:before {
     display: block;
     top: -31px;
-    background-image: url(../images/polygon-line-c.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-line-c.png)
 }
 
 .ui-mask-s11:after {
@@ -3652,7 +3652,7 @@ hr {
 .ui-mask-s12:before {
     display: block;
     top: 50px;
-    background-image: url(../images/polygon-fill.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-fill.png)
 }
 
 .ui-mask-s12:after {
@@ -3667,7 +3667,7 @@ hr {
 
 .ui-mask-s13:before {
     display: block;
-    background-image: url(../images/ui-mask-s13.png)
+    background-image: url(https://ico.themenio.com/assets/images/ui-mask-s13.png)
 }
 
 .ui-mask-s13:after {
@@ -3689,7 +3689,7 @@ hr {
 
 .ui-mask-s14:before {
     display: block;
-    background-image: url(../images/ui-mask-s14.png)
+    background-image: url(https://ico.themenio.com/assets/images/ui-mask-s14.png)
 }
 
 .ui-mask-s14:after {
@@ -3712,7 +3712,7 @@ hr {
 
 .ui-mask-s15:before {
     display: block;
-    background-image: url(../images/ui-mask-s15.png)
+    background-image: url(https://ico.themenio.com/assets/images/ui-mask-s15.png)
 }
 
 .ui-mask-s15:after {
@@ -3730,7 +3730,7 @@ hr {
 
 .ui-mask-s16:before {
     display: block;
-    background-image: url(../images/ui-mask-s16.png)
+    background-image: url(https://ico.themenio.com/assets/images/ui-mask-s16.png)
 }
 
 .ui-mask-s16:after {
@@ -3744,7 +3744,7 @@ hr {
 
 .ui-mask-s17:before {
     display: block;
-    background-image: url(../images/ui-mask-s17.png)
+    background-image: url(https://ico.themenio.com/assets/images/ui-mask-s17.png)
 }
 
 .ui-mask-s17:after {
@@ -10150,7 +10150,7 @@ ul.progress-info {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../images/dot-c.png) no-repeat;
+    background: url(https://ico.themenio.com/assets/images/dot-c.png) no-repeat;
     background-size: contain;
     background-position: 50% 50%
 }
@@ -10342,7 +10342,7 @@ ul.progress-info {
 }
 
 .img-block-dot {
-    background-image: url(../images/dot-a.png);
+    background-image: url(https://ico.themenio.com/assets/images/dot-a.png);
     background-position: top center;
     padding: 50px 0;
     margin-top: -40px
@@ -10549,7 +10549,7 @@ ul.progress-info {
     left: 50%;
     transform: translate(-50%, -50%);
     content: '';
-    background-image: url(../images/light-ix.png)
+    background-image: url(https://ico.themenio.com/assets/images/light-ix.png)
 }
 
 .app-slide img {
@@ -12184,7 +12184,7 @@ ul.progress-info {
 }
 
 .feature-icon-bg-grd-s1 {
-    background-image: url(../../images/icons/icon-bg-a.png)
+    background-image: url(https://ico.themenio.com/images/icons/icon-bg-a.png)
 }
 
 .feature-icon-bg-grd-s1 .icon-grd {
@@ -12192,7 +12192,7 @@ ul.progress-info {
 }
 
 .feature-icon-bg-grd-s2 {
-    background-image: url(../../images/icons/icon-bg-a2.png)
+    background-image: url(https://ico.themenio.com/images/icons/icon-bg-a2.png)
 }
 
 .feature-icon-bg-grd-s2 .icon-grd {
@@ -12200,7 +12200,7 @@ ul.progress-info {
 }
 
 .feature-icon-bg-grd-s3 {
-    background-image: url(../../images/icons/icon-bg-a3.png)
+    background-image: url(https://ico.themenio.com/images/icons/icon-bg-a3.png)
 }
 
 .feature-icon-bg-grd-s3 .icon-grd {
@@ -12444,7 +12444,7 @@ ul.progress-info {
     height: 2px;
     content: '';
     width: 100%;
-    background: url(../images/line.png) repeat 0 0;
+    background: url(https://ico.themenio.com/assets/images/line.png) repeat 0 0;
     z-index: -1;
     animation: slide 1s linear infinite
 }
@@ -17154,7 +17154,7 @@ ul.progress-info {
 }
 
 .rank-item {
-    background-image: url(../images/hexagon.png);
+    background-image: url(https://ico.themenio.com/assets/images/hexagon.png);
     height: 88px;
     width: 94px;
     padding: 16px 20px 0
@@ -18023,7 +18023,7 @@ ul.progress-info {
     transform: translateX(-50%);
     transform-origin: 50% 50%;
     content: '';
-    background: url(../images/polygon-a-dark.png) 50% 0/contain no-repeat;
+    background: url(https://ico.themenio.com/assets/images/polygon-a-dark.png) 50% 0/contain no-repeat;
     width: 215px;
     height: 205px;
     z-index: -1;
@@ -18031,7 +18031,7 @@ ul.progress-info {
 }
 
 .tc-light .doc-shape:before {
-    background-image: url(../images/polygon-a-light.png)
+    background-image: url(https://ico.themenio.com/assets/images/polygon-a-light.png)
 }
 
 .doc-shape-a:before {

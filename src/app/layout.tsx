@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import defaultConfig from "@/configs/default.json"
 import AzaleaLayout from "@/themes/azalea/layout";
+import GentianLayout from "@/themes/gentian/layout";
 
 
 export const metadata: Metadata = {
@@ -14,6 +15,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <AzaleaLayout>{children}</AzaleaLayout>
+    <GentianLayout>{children}</GentianLayout>
   );
 }

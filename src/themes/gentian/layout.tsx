@@ -5,7 +5,7 @@ import NavBar from "@/components/navbar";
 import "@/themes/vendor.bundle.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { ReactNode, useEffect, useRef } from "react";
-import "./azalea.css";
+import "./gentian.css";
 import ParticleBackground from "@/components/particlebackground";
 import PageHeader from "@/components/blocks/block-banner";
 import CustomButton from "@/components/elements/element-button";

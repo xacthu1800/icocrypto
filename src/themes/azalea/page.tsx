@@ -18,8 +18,7 @@ import { BlockInPress } from '@/components/blocks/block-INPRESS';
 import { BlockNews } from '@/components/blocks/block-NEWS';
 import Footer from "@/components/blocks/block-footer"
 
-import { BlockContactUs } from "@/components/blocks/block-CONTACT-US";
-import { BlockAbout } from "@/components/blocks/block-ABOUT";
+import { BlockAbout } from "@/components/blocks/block-feature-panels";
 import { BlockEcosystems } from "@/components/blocks/block-ECOSYSTEMS";
 import BlockPlatform from "@/components/blocks/block-platform";
 import BlockMVP from "@/components/blocks/block-MVP";
@@ -27,6 +26,7 @@ import { BlockTokens } from "@/components/blocks/block-TOKEN";
 import { BlockOurTeam } from "@/components/blocks/block-OURTEAM";
 import { BlockBoardMember } from "@/components/blocks/block-BOARD-MEMBER";
 import { BlockRoadMap } from "@/components/blocks/block-ROADMAP"
+import { BlockContact } from "@/components/blocks/block-contact";
 
 import page from '@/configs/page.json'
 
@@ -173,7 +173,7 @@ export default function Home() {
       </section> 
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.about.title} mainTitle={page.contents.about.mainTitle} />
-      <BlockAbout aboutContent={page.contents.about}/>
+      <BlockAbout featureContent={page.contents.about} variant="S20"/>
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.ecosystems.title} mainTitle={page.contents.ecosystems.mainTitle} />
       <BlockEcosystems contents={page.contents.ecosystems.contents} imageBackground={page.contents.ecosystems.imageBackground}/>
@@ -250,7 +250,7 @@ export default function Home() {
       </section>
       <div style={{ marginBottom: "100px" }}/> 
       <section className="container">
-        <BlockContactUs contentList={page.contents.contact}/>
+        <BlockContact contactContent={page.contents.contact} variant="S6"/>
       </section>
       <div style={{ marginBottom: "100px" }}/> 
       <Footer /> 
