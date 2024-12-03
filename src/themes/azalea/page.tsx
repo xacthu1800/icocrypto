@@ -16,12 +16,10 @@ import { BlockDocument } from "@/components/blocks/block-DOCUMENT";
 import { BlockOurPartner } from "@/components/blocks/block-OURPARTNER";
 import { BlockInPress } from '@/components/blocks/block-INPRESS';
 import { BlockNews } from '@/components/blocks/block-NEWS';
-import Footer from "@/components/blocks/block-footer"
+import { Footer } from "@/components/blocks/block-footer"
 
-import { BlockAbout } from "@/components/blocks/block-feature-panels";
+import { FeaturePanels } from "@/components/blocks/block-feature-panels";
 import { BlockEcosystems } from "@/components/blocks/block-ECOSYSTEMS";
-import BlockPlatform from "@/components/blocks/block-platform";
-import BlockMVP from "@/components/blocks/block-MVP";
 import { BlockTokens } from "@/components/blocks/block-TOKEN";
 import { BlockOurTeam } from "@/components/blocks/block-OURTEAM";
 import { BlockBoardMember } from "@/components/blocks/block-BOARD-MEMBER";
@@ -173,16 +171,18 @@ export default function Home() {
       </section> 
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.about.title} mainTitle={page.contents.about.mainTitle} />
-      <BlockAbout featureContent={page.contents.about} variant="S20"/>
+      <FeaturePanels featureContent={page.contents.about} variant="S20"/>
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.ecosystems.title} mainTitle={page.contents.ecosystems.mainTitle} />
       <BlockEcosystems contents={page.contents.ecosystems.contents} imageBackground={page.contents.ecosystems.imageBackground}/>
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.platform.title} mainTitle={page.contents.platform.mainTitle} />
-      <BlockPlatform tabs = {page.contents.platform.tabsPlatform} />
+      {/*  PLATFORM */}
+      <FeaturePanels featureContent={page.contents.platform} variant="S21"/>
       <div style={{ marginBottom: "100px" }}/>
       <ContentTitleX1 title={page.contents.mvp.title} mainTitle={page.contents.mvp.mainTitle}>Our project is based on an existing cryptocurrency exchange.</ContentTitleX1>
-      <BlockMVP items={page.contents.mvp.items} />
+      {/* MVP */}
+      <FeaturePanels featureContent={page.contents.mvp} variant="S22"/>
       <div style={{ marginBottom: "100px" }}/> 
       <ContentTitleX1 title={page.contents.token.title} mainTitle={page.contents.token.mainTitle}>Breakdown of our Token Recipients.</ContentTitleX1>
       <section className="container">
@@ -253,7 +253,7 @@ export default function Home() {
         <BlockContact contactContent={page.contents.contact} variant="S6"/>
       </section>
       <div style={{ marginBottom: "100px" }}/> 
-      <Footer /> 
+      <Footer FooterContent={page.contents.footer} variant="S1"/> 
     </>
   );
 }

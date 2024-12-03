@@ -602,6 +602,48 @@
                 ]
                 }
             ]
-        }
+        },
+        "footer": {
+            "logoSrc": "https://ico.themenio.com/images/logo-full-white.png",
+            "logoAlt": "logo",
+            "socialLinkList": [],
+            "copyrightText": "Copyright © 2022 ICO.",
+            "templateBy": "Softnio",
+            "templateLink": "https://softnio.com/",
+            "handcraftedBy": "IO",
+            "handcraftedLink": "#",
+            "privacyPolicyLink": "#",
+            "termsOfSalesLink": "#",
+            "columns": [
+              {
+                "title": "COMPANY",
+                "items": [
+                  { "title": "About Us", "link": "#" },
+                  { "title": "Meet Our Team", "link": "#" },
+                  { "title": "Advisors", "link": "#" },
+                  { "title": "Insights", "link": "#" }
+                ]
+              },
+              {
+                "title": "Legal",
+                "items": [
+                  { "title": "Terms & Conditions", "link": "#" },
+                  { "title": "Privacy Policy", "link": "#" },
+                  { "title": "Terms of Sales", "link": "#" },
+                  { "title": "Whitepaper", "link": "#" }
+                ]
+              },
+              {
+                "title": "Quick Links",
+                "items": [
+                  { "title": "Ecosystems", "link": "#" },
+                  { "title": "Roadmaps", "link": "#" },
+                  { "title": "Faqs", "link": "#" },
+                  { "title": "Login", "link": "#" }
+                ]
+              }
+            ],
+            "buttonIcon": ""
+          }          
     }
 }
